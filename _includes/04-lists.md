@@ -1,0 +1,7 @@
+- Cats
+- Dogs
+- Foxes
+- Books
+- Anime
+- Food
+- Family
